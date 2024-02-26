@@ -1,0 +1,191 @@
+
+
+.main{
+    margin:auto;
+    display:grid;
+    column-gap: normal;
+    justify-content: center;
+    background-color: rgb(22, 172, 17);
+    /*color: rgb(215, 236, 213);
+    text-align: center;
+    text-decoration: solid;*/
+    
+}
+
+.where-card-now{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    width: auto;
+    height: 90px;
+    font-size: 1.5em;
+    
+    font-family:Impact, Haettenschweiler;
+    color: rgb(187, 238, 182);
+    
+}
+
+.simple-draw{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-family: Impact, Haettenschweiler;
+    color: rgb(187, 238, 182);
+    font: 100;
+   /* background-color: rgb(187, 238, 182); */
+}
+
+.sub-main-content{
+    align-items: center;
+    text-align: center;
+    font-size: 1em;
+    font-family: Impact, Haettenschweiler;
+    margin-top: 10px;
+    color: rgb(187, 238, 182);
+    /* background-color: rgb(187, 238, 182); */
+}
+
+.sub-content{
+    align-items: center;
+    text-align: center;
+    font-size: 1em;
+    margin-top: 10px;
+    font-family: Impact, Haettenschweiler;
+    color: rgb(187, 238, 182);
+   /* background-color: rgb(187, 238, 182); */
+}
+
+/* ._divisor_{
+
+}
+
+*/
+.title-content{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.sub-title-content{
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.main-services{
+    margin-left: 30px;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.asesoring-mark-digital{
+   /* margin-left: 100px;*/
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.digital-app-gestion{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.publicited-campaign-ads{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.strategic-meta-marketing{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.create-comunity-app-digital{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.team-get{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.web-page-create{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.services-company{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.gatekeeper-investigation{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.competity-analitic{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.create-leads{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
+
+.CLNT-encuest-satisfaction{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2em;
+    font-family: impact, haettenschiweiler;
+    height: auto;
+    color:rgb(215, 236, 213)
+}
