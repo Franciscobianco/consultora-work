@@ -1,0 +1,202 @@
+.body{
+    background-color: rgb(22, 172, 17);
+    align-items: center;
+    
+
+}
+
+input[type="text"] {
+    position:relative;
+    cursor: pointer; /* Cambia el cursor a una mano señalando */
+    transition: border 0.3s ease-in-out; /* Agrega una transición suave al enfocar el campo */
+    border: 4px solid rgb(0, 0, 0); /* Borde sólido azul al enfocar */
+    font-size: 1.3em;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+    letter-spacing: 5px;
+    
+
+}
+/*input[type="text"]:focus {
+    
+}*/
+
+
+.title-form{
+    align-items: center;
+    width: 700px;
+    height: 90px;
+    margin-left: 100px;
+    margin-top: 0px;
+    
+}
+
+.paragraph{
+    font-size: 2.5em;
+    font-family: Impact, Haettenschweiler;
+    font-style: italic;
+    /*background-color: rgb(187, 238, 182);*/
+    color: rgb(187, 238, 182);
+
+}
+
+.content-main{
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+    align-items: center;
+    
+    width: 280px;
+    height: 630px;
+    -webkit-columns: 150px 2;
+    -moz-columns: 150px 2;
+    columns: 150px 2;
+    column-fill: auto;
+    column-gap: 5px;
+}
+
+.form-content-main{
+    align-items: center;
+    margin-top: 0px;
+    -webkit-columns: 150px 3;
+    -moz-columns: 150px 3;
+    columns: 150px 3;
+    column-fill: auto;
+    column-gap: 10px;
+    height: 450px;
+    
+}
+
+
+.name{
+    
+    margin-top: 7px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(187, 238, 182);
+    border: 5px solid rgb(58, 80, 80);
+    border-radius: 20px;
+}
+.label-name{
+  margin-top: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: impact, haettenschiweiler;
+  height: auto;
+  color:rgb(187, 238, 182)
+}
+.surname{
+   
+    
+    margin-top: 40px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(187, 238, 182);
+    border: 5px solid rgb(58, 80, 80);
+    border-radius: 20px;
+}
+
+.label-surname{
+    margin-top: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: impact, haettenschiweiler;
+  height: auto;
+  color:rgb(187, 238, 182)
+
+}
+
+.email{
+    
+    margin-top: 40px;
+    margin-top: 40px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(187, 238, 182);
+    border: 5px solid rgb(58, 80, 80);
+    border-radius: 20px;
+}
+
+.label-email{
+    margin-top: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: impact, haettenschiweiler;
+  height: auto;
+  color:rgb(187, 238, 182)
+
+
+}
+
+.phone{
+    
+    margin-top: 40px;
+    margin-top: 40px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(187, 238, 182);
+    border: 5px solid rgb(58, 80, 80);
+    border-radius: 20px;
+}   
+
+.label-phone{
+    margin-top: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: impact, haettenschiweiler;
+  height: auto;
+  color:rgb(187, 238, 182)
+
+}
+
+.description{
+    margin-left: 90px;
+    margin-top: 10px;  
+    width: 300px;
+    height: 300px;
+    background-color: rgb(187, 238, 182);
+    border: 5px solid rgb(58, 80, 80);
+    border-radius: 20px;
+}
+
+.label-description{
+    margin-left: 90px;
+    margin-top: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: impact, haettenschiweiler;
+  height: auto;
+  color:rgb(187, 238, 182)
+
+}
+
+/*.foot{
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+    background-color: black;
+    height: 300px;
+    width: 1000px;
+}*/
+
+.logo-s-contact{
+    justify-content: center;
+    align-items:center;
+    flex-direction: column-reverse;
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 100px;
+    height: 1.1em;
+    position: relative;
+    /*background-color: aqua;*/
+    
+}
+
+.img{
+    
+    width: 100px;
+    height: 100px;
+    align-content: center;
+    align-items: center;
+}
